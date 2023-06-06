@@ -1,0 +1,25 @@
+{
+    "admin": {
+        "password": "abcdef"
+    },
+    "vlad": {
+        "password": "yj||:",
+        "high_score": 0,
+        "date": "2023-05-18 20:43:29.618943"
+    },
+    "alex": {
+        "password": "Chx0vdoh{",
+        "high_score": 0,
+        "date": "2023-05-22 17:42:13.958450"
+    },
+    "player1": {
+        "password": "bcd",
+        "high_score": 2,
+        "date": "2023-05-22 20:11:21.447303"
+    },
+    "madalina": {
+        "password": "ufwtqf6",
+        "high_score": 0,
+        "date": "2023-05-22 21:58:25.938616"
+    }
+}
