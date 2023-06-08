@@ -224,7 +224,7 @@ if __name__ == "__main__":
 
 
     else:
-        print("Autentificare esuata")
+        print("Autentificare esuata, parola sau usernamul sunt gresite.")
 
 
 
