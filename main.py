@@ -13,6 +13,7 @@ Hello admin! What would you like to do?
 \t\t3. Edit question
 \t\t4. Add player
 \t\t5. Exit
+\t\t6. Remove player
 """
 OKBLUE = '\033[94m'
 OKCYAN = '\033[96m'
