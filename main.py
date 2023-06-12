@@ -26,7 +26,7 @@ ENDC = '\033[0m'
 
 def no_name():
     return 2 + 4
-
+pass
 def check_userpass(users: dict, username: str, password: str) -> bool:
     if username == 'admin':
         admin_pass = os.environ['admin_quiz'].split("~")[1]
