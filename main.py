@@ -25,7 +25,7 @@ UNDERLINE = '\033[4m'
 ENDC = '\033[0m'
 
 def no_name():
-    return 2
+    return 2 + 2
 
 def check_userpass(users: dict, username: str, password: str) -> bool:
     if username == 'admin':
