@@ -13,6 +13,7 @@ Hello admin! What would you like to do?
 \t\t3. Edit question
 \t\t4. Add player
 \t\t5. Exit
+\t\t6. Remove players
 """
 OKBLUE = '\033[94m'
 OKCYAN = '\033[96m'
@@ -226,7 +227,7 @@ if __name__ == "__main__":
 
 
     else:
-        print("Autentificare esuata")
+        print("Autentificare esuata, parola sau usernamul sunt gresite.")
 
 
 
